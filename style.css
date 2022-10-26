@@ -1,0 +1,22 @@
+.container {
+  width: 700px;
+  margin: 50px auto;
+}
+
+div {
+  display: block;
+}
+.banner {
+  background-image: url(https://source.unsplash.com/random/1000x500);
+  background-size: cover;
+  color: white;
+  padding: 120px 0;
+}
+body {
+  color: #494949;
+  font-size: 18px;
+  line-height: 1.6;
+  font-weight: lighter;
+  font-family: 'Lora', serif;
+  margin: 0;
+}
